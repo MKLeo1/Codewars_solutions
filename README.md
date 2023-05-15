@@ -1,7 +1,7 @@
-<h1>#CodeWars Solutions</h1>
+<h2>#CodeWars Solutions</h2>
 
-<h2>Solving problems on daily basis: </h2>
+<h3>Solving problems on daily basis: </h3>
 
-<h2>https://www.codewars.com/users/MkLeo1/</h2>
+<h5>https://www.codewars.com/users/MkLeo1/</h5>
 
-<h3>Link for certain challenge above code</h3>
+<h5>Link for certain challenge above code</h5>
